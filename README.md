@@ -1,6 +1,8 @@
 # Strong-Password---Hackerrank-
 Practicing version control using a Hackerrank puzzle and Java 8
 
+** so the idea in practicing is not to change the whole code and get it to work right away, but to change different parts of it to see what happens with compatibility. It doesn't have to be a big change or have to work. 
+
 The puzzle is located here: https://www.hackerrank.com/contests/hourrank-24/challenges/strong-password
 
 This is not the puzzle description; you can read that in the link above. This is just a collection of thoughts to think about the algorithm.
